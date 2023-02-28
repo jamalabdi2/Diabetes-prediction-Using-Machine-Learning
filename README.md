@@ -30,13 +30,11 @@ The accuracy score, confusion matrix, and classification report are generated fo
 
 The following libraries are used in this project:
 
-numpy
-pandas
-seaborn
-matplotlib
-scikit-learn
-imblearn
-tensorflow
-warnings
-pickle
-joblib
+1. numpy
+2. pandas
+3. seaborn
+4. matplotlib
+5. scikit-learn
+6. imblearn
+7. tensorflow
+
